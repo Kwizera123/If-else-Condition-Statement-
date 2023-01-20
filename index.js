@@ -44,4 +44,9 @@ if(number >= 7){
 }else{
   console.log("Smaller");
 }
-
+console.log("--------------");
+// another one
+let n = 45;
+if(n >= 45) if(n < 65){
+  console.log(n);
+}
